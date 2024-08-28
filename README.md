@@ -16,4 +16,4 @@ Prediction: Predict total runs in a T20 match using the trained XGBoost model.
 
 Deployment: Deployed the model using Streamlit via PyCharm.
 
-Tap to predict score: http://localhost:8501/
+Tap to predict score: http://localhost:8501/ or https://predictscore.streamlit.app/

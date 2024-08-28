@@ -15,3 +15,5 @@ Evaluation: Assess model performance using metrics like MAE, MSE, and R-squared.
 Prediction: Predict total runs in a T20 match using the trained XGBoost model.
 
 Deployment: Deployed the model using Streamlit via PyCharm.
+
+Tap to predict score: http://localhost:8501/

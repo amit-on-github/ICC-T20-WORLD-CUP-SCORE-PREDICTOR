@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
 scikit-learn
 xgboost
-=======
-scikit-learn
-xgboost
->>>>>>> Stashed changes
+

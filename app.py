@@ -55,8 +55,7 @@ cities = ['Colombo',
  'Christchurch',
  'Trinidad']
 
-
-title ='ICC MENS T20 WORLD CUP SCORE PREDICTOR'
+title ='ICC MEN T20 WORLD CUP SCORE PREDICTOR'
 st.markdown(f"<h1 style='text-align: center'>{title}</h1>",unsafe_allow_html=True)
 
 # Open the image file using PIL
